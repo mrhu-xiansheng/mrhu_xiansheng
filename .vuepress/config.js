@@ -2,7 +2,7 @@ module.exports = {
   "title": "vipliu",
   "description": "vipliu'blog",
   "dest": "public",
-  base:"mrhu_xiansheng",
+  base:"/mrhu_xiansheng/",
   "head": [
     [
       "link",
